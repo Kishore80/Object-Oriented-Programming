@@ -1,0 +1,15 @@
+Order of Lectures
+
+1    Intro.js
+2    Pillars.js
+3    constructorFunction.js
+4    prototype&inheritance.js
+5    prototypeChaining.js
+6    class.js
+7    getter&setter.js
+8    staticMethod.js
+9    objectCreate.js
+10   inheritanceBetweenFunctionConstructor.js
+11   inheritanceBetweenClasses.js
+12   encapsulation.js
+13   abstraction.js
